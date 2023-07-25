@@ -6,4 +6,5 @@ System.out.println("welcome");
 System.out.println("welcome 2 v2");
 System.out.println("revised v3");
   //edited in remote repo
+//Now cloned copy is edited
 }}
